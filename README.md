@@ -1,9 +1,9 @@
 # Machine Learning with Python
 
-*Getting started with scikit-learn for machine learning*
+*Getting started with scikit-learn*
 
 
-Following on from the Introduction to Machine Learning course, this series of hands-on workshops will get you started with applying supervised and unsupervised machine learning methods in Python, using the popular `scikit-learn` package.
+Following on from the *Introduction to Machine Learning* course, this series of hands-on workshops will get you started with applying supervised and unsupervised machine learning methods in Python, using the popular `scikit-learn` package.
 
 ## Intended Learning Outcomes
 
