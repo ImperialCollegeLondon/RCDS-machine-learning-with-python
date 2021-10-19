@@ -28,5 +28,6 @@ We will be working with Jupyter notebooks during the sessions using the JupyterL
 ## Data sets
 
 We will be working with a variety of real and synthetic data sets to illustrate various methods.
-For your own work between classes, it is recommended to identify a suitable data set from your own research or from other work in your field.
-This will be discussed more during the first session.
+For your own work between classes, you will be asked to identify a suitable data set from your own research or from other work within your field.
+
+You can start thinking about this before the course, but the main requirements for a machine learning data set will be discussed more during the first session.
