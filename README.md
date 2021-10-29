@@ -14,7 +14,11 @@ After completing this workshop, you will be better able to:
 * Construct your own workflows for model training and testing
 * Evaluate the performance of a model
 
-## Getting set up
+## Setup
+
+We will be working with python using jupyter notebooks. The easiest way to access jupyter is via the Anaconda platform.
+
+Please install Anaconda from https://www.anaconda.com in advance of the first session.
 
 Please ensure that you have an up-to-date scikit-learn package installed prior to starting the first session.
 General installation instructions are available here:
@@ -22,7 +26,15 @@ https://scikit-learn.org/stable/install.html#installation-instructions
 
 scikit-learn is part of the default installation of Anaconda, so you may already have everything you need.
 
-We will be working with Jupyter notebooks during the sessions using the JupyterLab platform - again this is provided within Anaconda.
+
+## Getting Started
+
+Download this repository to your computer as a ZIP file and unpack it.
+
+Open JupyterLab (within Anaconda) and navigate to the unpacked directory to work with the .ipynb notebooks.
+
+Alternatively, you can run the notebooks online using Binder: [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/johnpinney/machine_learning_with_python/main?urlpath=lab)
+
 
 
 ## Data sets
